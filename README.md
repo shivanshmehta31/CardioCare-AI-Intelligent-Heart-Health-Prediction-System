@@ -1,4 +1,4 @@
-# 🫀 Heart Disease Prediction using Deep Learning
+# 🫀 CardioCare: AI Intelligent Heart Health Prediction System
 
 A machine learning and deep learning-based solution to predict the presence of heart disease using medical and lifestyle features. This project leverages TensorFlow, Scikit-learn, and powerful data preprocessing techniques to deliver an effective binary classification model.
 
